@@ -1,0 +1,30 @@
+{
+  "task": "recruitment",
+  "rows": 1500,
+  "n_features": 7,
+  "features": [
+    "EducationLevel",
+    "ExperienceYears",
+    "PreviousCompanies",
+    "DistanceFromCompany",
+    "InterviewScore",
+    "SkillScore",
+    "RecruitmentStrategy"
+  ],
+  "positive_rate": 0.31,
+  "seed": 42,
+  "selected_model": "Random Forest",
+  "selection_metric": "pr_auc",
+  "ablation": {
+    "without_sensitive_pr_auc": 0.8565970493761353,
+    "with_sensitive_pr_auc": 0.8584278727870516,
+    "sensitive_columns": [
+      "Gender",
+      "Age"
+    ]
+  },
+  "python": "3.13.18",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5",
+  "numpy": "2.5.3"
+}

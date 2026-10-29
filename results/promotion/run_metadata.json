@@ -1,0 +1,32 @@
+{
+  "task": "promotion",
+  "rows": 54808,
+  "n_features": 9,
+  "features": [
+    "department",
+    "region",
+    "education",
+    "recruitment_channel",
+    "no_of_trainings",
+    "previous_year_rating",
+    "length_of_service",
+    "awards_won",
+    "avg_training_score"
+  ],
+  "positive_rate": 0.08517004816815063,
+  "seed": 42,
+  "selected_model": "Gradient Boosting",
+  "selection_metric": "pr_auc",
+  "ablation": {
+    "without_sensitive_pr_auc": 0.533052442525652,
+    "with_sensitive_pr_auc": 0.5348166111297976,
+    "sensitive_columns": [
+      "gender",
+      "age"
+    ]
+  },
+  "python": "3.13.18",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5",
+  "numpy": "2.5.3"
+}

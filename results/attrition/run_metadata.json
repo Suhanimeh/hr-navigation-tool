@@ -1,0 +1,47 @@
+{
+  "task": "attrition",
+  "rows": 1470,
+  "n_features": 23,
+  "features": [
+    "BusinessTravel",
+    "DailyRate",
+    "Department",
+    "DistanceFromHome",
+    "Education",
+    "EnvironmentSatisfaction",
+    "JobInvolvement",
+    "JobLevel",
+    "JobRole",
+    "JobSatisfaction",
+    "NumCompaniesWorked",
+    "OverTime",
+    "PercentSalaryHike",
+    "PerformanceRating",
+    "RelationshipSatisfaction",
+    "StockOptionLevel",
+    "TotalWorkingYears",
+    "TrainingTimesLastYear",
+    "WorkLifeBalance",
+    "YearsAtCompany",
+    "YearsInCurrentRole",
+    "YearsSinceLastPromotion",
+    "YearsWithCurrManager"
+  ],
+  "positive_rate": 0.16122448979591836,
+  "seed": 42,
+  "selected_model": "Logistic Regression",
+  "selection_metric": "pr_auc",
+  "ablation": {
+    "without_sensitive_pr_auc": 0.567721638950587,
+    "with_sensitive_pr_auc": 0.5803408021151243,
+    "sensitive_columns": [
+      "Gender",
+      "MaritalStatus",
+      "Age"
+    ]
+  },
+  "python": "3.13.18",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5",
+  "numpy": "2.5.3"
+}

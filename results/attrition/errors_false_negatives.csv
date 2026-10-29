@@ -1,0 +1,16 @@
+,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EnvironmentSatisfaction,JobInvolvement,JobLevel,JobRole,JobSatisfaction,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,y_true,score,pred
+1111,Travel_Rarely,607,Research & Development,2,5,3,2,3,Manufacturing Director,4,0,No,16,3,2,1,34,4,3,33,7,1,9,1,0.006281207998932316,0
+126,Travel_Rarely,147,Research & Development,23,4,4,3,3,Healthcare Representative,4,1,No,12,3,4,1,40,3,2,40,10,15,6,1,0.04995314766825506,0
+217,Travel_Rarely,992,Research & Development,1,3,3,3,1,Research Scientist,3,0,No,14,3,4,0,7,1,2,6,2,1,5,1,0.08499157704089608,0
+45,Travel_Rarely,1360,Research & Development,12,3,2,3,5,Research Director,3,1,No,12,3,4,0,23,0,3,22,15,15,8,1,0.12997415090289036,0
+700,Travel_Rarely,289,Research & Development,2,3,4,3,1,Research Scientist,3,4,No,24,4,1,0,7,4,3,1,0,0,0,1,0.19382702950297262,0
+779,Travel_Rarely,1323,Research & Development,4,4,1,3,1,Research Scientist,3,9,Yes,12,3,3,3,18,2,4,10,0,2,7,1,0.20000701033136536,0
+663,Travel_Rarely,1427,Research & Development,18,1,4,3,1,Research Scientist,4,1,No,19,3,1,0,1,3,2,1,0,0,0,1,0.20621414249250702,0
+780,Non-Travel,1366,Research & Development,24,2,2,2,3,Healthcare Representative,1,1,No,12,3,1,0,10,2,2,10,7,1,9,1,0.22986080012354798,0
+136,Travel_Frequently,1150,Research & Development,8,4,1,1,3,Manufacturing Director,4,2,No,15,3,4,0,18,2,3,4,2,0,3,1,0.2388176409004984,0
+382,Travel_Frequently,575,Research & Development,3,1,3,3,1,Research Scientist,1,0,No,22,4,3,0,7,2,3,6,4,0,4,1,0.2416318119365316,0
+562,Travel_Rarely,527,Research & Development,1,4,4,3,1,Research Scientist,4,1,Yes,13,3,3,0,10,2,2,10,9,7,8,1,0.27850555706516905,0
+985,Travel_Rarely,330,Research & Development,22,4,4,3,2,Manufacturing Director,3,1,Yes,15,3,4,2,10,3,2,10,2,6,7,1,0.3266519038607541,0
+24,Travel_Rarely,699,Research & Development,6,1,2,3,1,Research Scientist,1,2,No,11,3,3,0,8,2,3,4,2,1,3,1,0.37196883913021006,0
+789,Travel_Rarely,1376,Human Resources,1,2,2,2,3,Human Resources,1,9,No,14,3,4,1,24,1,3,20,6,3,6,1,0.45013219275420396,0
+1442,Travel_Rarely,1092,Research & Development,1,4,1,3,1,Research Scientist,4,9,Yes,14,3,2,3,4,3,4,2,2,2,2,1,0.4938347458237979,0

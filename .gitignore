@@ -1,0 +1,11 @@
+# datasets: public, but large and license-bound; download them yourself (see README)
+data/*.csv
+# trained model artifacts (pickle files can execute code when loaded; never commit them)
+*.pkl
+*.joblib
+# python / tooling
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+.streamlit/secrets.toml

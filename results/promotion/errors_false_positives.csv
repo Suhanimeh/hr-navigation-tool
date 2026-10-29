@@ -1,0 +1,16 @@
+,department,region,education,recruitment_channel,no_of_trainings,previous_year_rating,length_of_service,awards_won,avg_training_score,y_true,score,pred
+16639,Analytics,region_28,Bachelor's,other,1,3.0,5,0,92.0,0,0.9662991503189094,1
+18069,Analytics,region_7,Master's & above,sourcing,2,5.0,5,0,92.0,0,0.9661228766883752,1
+37073,Analytics,region_30,Bachelor's,sourcing,1,5.0,5,0,92.0,0,0.9642840443181663,1
+53152,Analytics,region_13,,sourcing,1,,1,0,92.0,0,0.9615177696715753,1
+16285,Analytics,region_29,Bachelor's,other,1,4.0,4,0,93.0,0,0.9613185920250276,1
+25212,Operations,region_8,Master's & above,other,1,5.0,7,0,68.0,0,0.9428308930598664,1
+20966,Analytics,region_25,Bachelor's,sourcing,1,5.0,7,1,84.0,0,0.912411462813541,1
+6421,Technology,region_19,Bachelor's,other,1,2.0,4,0,89.0,0,0.9079476919079726,1
+32834,Technology,region_23,Bachelor's,sourcing,1,3.0,2,0,88.0,0,0.9041157294644615,1
+53110,Technology,region_10,Master's & above,sourcing,1,5.0,7,1,78.0,0,0.9038247350816998,1
+40761,Procurement,region_15,Bachelor's,other,1,5.0,2,1,75.0,0,0.9027338557745492,1
+37430,Technology,region_22,Bachelor's,sourcing,2,5.0,2,1,75.0,0,0.9001509661034746,1
+15639,R&D,region_11,Bachelor's,other,1,5.0,3,1,79.0,0,0.899310936214901,1
+8984,Analytics,region_20,Bachelor's,other,1,5.0,4,1,84.0,0,0.8990293734006596,1
+46943,Technology,region_1,Bachelor's,other,1,5.0,2,1,77.0,0,0.8899545720872132,1

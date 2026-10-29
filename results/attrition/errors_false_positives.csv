@@ -1,0 +1,16 @@
+,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EnvironmentSatisfaction,JobInvolvement,JobLevel,JobRole,JobSatisfaction,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,y_true,score,pred
+929,Travel_Frequently,193,Research & Development,2,3,4,2,1,Laboratory Technician,4,1,Yes,12,3,2,1,2,2,3,2,2,2,2,0,0.8899933282083186,1
+347,Travel_Frequently,1309,Sales,4,1,2,3,2,Sales Representative,3,3,No,19,3,1,0,5,3,3,0,0,0,0,0,0.8631281178755503,1
+310,Travel_Rarely,106,Human Resources,2,3,1,2,2,Human Resources,1,3,No,12,3,4,0,9,1,3,2,2,1,0,0,0.8540888545653763,1
+301,Travel_Rarely,812,Sales,10,3,4,2,1,Sales Representative,3,1,No,12,3,1,0,0,2,3,0,0,0,0,0,0.8480124077775443,1
+665,Travel_Rarely,1454,Sales,2,4,4,2,1,Sales Representative,4,1,Yes,18,3,1,0,3,3,2,3,2,1,2,0,0.8361974049767685,1
+824,Travel_Rarely,188,Research & Development,29,3,2,1,2,Laboratory Technician,4,4,No,19,3,1,0,16,3,3,1,0,0,0,0,0.8250084699662831,1
+196,Travel_Frequently,138,Research & Development,2,3,2,3,2,Laboratory Technician,2,5,No,11,3,4,0,10,5,3,6,2,1,2,0,0.8164174606351624,1
+397,Travel_Rarely,891,Sales,4,2,2,2,2,Sales Executive,4,1,Yes,11,3,2,0,5,3,3,5,4,1,3,0,0.8096330824784074,1
+483,Travel_Rarely,538,Research & Development,25,2,1,2,2,Laboratory Technician,4,4,No,14,3,4,0,9,3,3,3,2,0,2,0,0.782061339807176,1
+684,Travel_Rarely,658,Sales,10,4,1,2,3,Sales Executive,2,2,No,12,3,2,1,11,2,2,1,0,0,0,0,0.7750934390945755,1
+1349,Travel_Rarely,482,Research & Development,1,2,2,2,1,Research Scientist,3,1,Yes,13,3,3,1,1,3,2,1,0,1,0,0,0.7730856946342727,1
+930,Travel_Frequently,968,Research & Development,6,2,2,2,1,Laboratory Technician,3,0,No,14,3,2,0,8,6,2,7,0,7,7,0,0.7611612146791651,1
+1391,Travel_Rarely,1404,Sales,1,3,1,2,1,Sales Representative,1,4,No,14,3,1,0,20,3,2,1,0,0,0,0,0.7609429116241522,1
+961,Travel_Frequently,482,Research & Development,4,4,3,3,2,Research Scientist,3,1,Yes,11,3,2,0,9,3,3,9,6,1,1,0,0.7562619492865099,1
+841,Travel_Rarely,477,Research & Development,24,3,4,3,1,Laboratory Technician,2,8,No,22,4,4,0,6,2,3,4,3,1,2,0,0.7542756578663421,1
